@@ -31,3 +31,13 @@ Revovery option include:
 * Enhance Password Portal
 * Establish Security Awareness Training Program
 * Network Re-design
+
+#### Follow Up
+Verify the incident has been mitigated.
+
+### Containment & Intelligence Developement
+Employ kill switches, enable decoy datasets, corrupting data, preventing data exfiltration or lateral movement are all considered proper containment options.  
+
+After limiting the capabilities of the adversary, develop initial intel about the TTPs of the adversary or IOCs and use the to sweep hosts in the environment.
+
+
