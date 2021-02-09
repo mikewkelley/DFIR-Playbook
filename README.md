@@ -12,3 +12,8 @@
 **IR Process**  
 [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)  
 
+## P
+**Playbooks**  
+[Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)  
+[IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  
+[PagerDuty IR Documentation](https://response.pagerduty.com/)
