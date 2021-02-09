@@ -8,6 +8,9 @@
 **Forensics (Memory)**  
 [Volatility](https://github.com/volatilityfoundation/volatility)  
 
+**Forensics (Windows)**  
+[SANS Windows Forensic Analysis Poster](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download)  
+
 ## I
 **IR Process**  
 [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)  
