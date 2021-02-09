@@ -19,4 +19,7 @@
 **Playbooks**  
 [Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)  
 [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  
-[PagerDuty IR Documentation](https://response.pagerduty.com/)
+[PagerDuty IR Documentation](https://response.pagerduty.com/)  
+
+**Program Execution**  
+[Using AppCompactCache (Shimcache) to Find Evil](https://digital-forensics.sans.org/summit-archives/DFIR_Summit/Johnny-AppCompatCache-the-Ring-of-Malware-Brice-Daniels-and-Mary-Singh.pdf)
