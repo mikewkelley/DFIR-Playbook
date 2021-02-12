@@ -28,6 +28,10 @@
 [Using AppCompactCache (Shimcache) to Find Evil](https://digital-forensics.sans.org/summit-archives/DFIR_Summit/Johnny-AppCompatCache-the-Ring-of-Malware-Brice-Daniels-and-Mary-Singh.pdf)  
 [Using Prefetch to Find Evil](https://www.hackers-arise.com/post/2016/11/02/digital-forensics-part-6-analyzing-windows-pre-fetch-files-for-evidence)  
 
+## S
+**ShimCache**  
+[AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser)  
+
 ## W
 **Web Browser**  
 [Web Browser Forensics](https://www.digitalforensics.com/blog/an-overview-of-web-browser-forensics/)
