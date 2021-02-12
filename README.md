@@ -15,6 +15,10 @@
 **IR Process**  
 [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)  
 
+## M
+**Malware Scanning**  
+[densityscout ](http://cert.at/downloads/software/densityscout_en.html)  *- checks for obfuscation and packing*  
+
 ## P
 **Playbooks**  
 [Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)  
