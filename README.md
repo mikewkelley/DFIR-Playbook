@@ -2,6 +2,10 @@
 **Chrome**  
 Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User Data\Default\Extensions
 
+## D 
+**Defender**  
+[Live Response Commands](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/live-response)  
+
 ## F  
 **Forensic Toolkits**  
 [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)  
