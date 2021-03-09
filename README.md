@@ -1,3 +1,7 @@
+## C 
+**Chrome**  
+Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User Data\Default\Extensions
+
 ## F  
 **Forensic Toolkits**  
 [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)  
