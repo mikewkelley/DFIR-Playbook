@@ -40,6 +40,10 @@ Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User 
 [Using AppCompactCache (Shimcache) to Find Evil](https://digital-forensics.sans.org/summit-archives/DFIR_Summit/Johnny-AppCompatCache-the-Ring-of-Malware-Brice-Daniels-and-Mary-Singh.pdf)  
 [Using Prefetch to Find Evil](https://www.hackers-arise.com/post/2016/11/02/digital-forensics-part-6-analyzing-windows-pre-fetch-files-for-evidence)  
 
+## R  
+**Remote Desktop Protocol**  
+[Tracking and Analyzing Remote Desktop Activity Logs in Windows](http://woshub.com/rdp-connection-logs-forensics-windows/)  
+
 ## S
 **ShimCache**  
 [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser)  
