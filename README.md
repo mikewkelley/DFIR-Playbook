@@ -28,6 +28,10 @@ Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User 
 [densityscout ](http://cert.at/downloads/software/densityscout_en.html)  *- checks for obfuscation and packing*  
 
 ## P
+**PDF**  
+[PDF Stream Dumper](http://sandsprite.com/blogs/index.php?uid=7&pid=57)   
+[Analyzing Suspicious PDF Files With PDF Stream Dumper](https://zeltser.com/pdf-stream-dumper-malicious-file-analysis/)  
+
 **Playbooks**  
 [Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)  
 [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  
