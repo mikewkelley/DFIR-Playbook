@@ -10,7 +10,11 @@ Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User 
 **Forensic Toolkits**  
 [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)  
 
-**Forensics (Capture)**  
+**Forensics (Capture Dead)**  
+%SystemDrive%/hiberfil.sys  
+
+
+**Forensics (Capture Live)**  
 [FTK Imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftkimager#:~:text=FTK%C2%AE%20Imager%20is%20a,%C2%AE%20(FTK)%20is%20warranted.)  
 [Redline](https://www.fireeye.com/services/freeware/redline.html)  
 [DumpIt](https://zeltser.com/memory-acquisition-with-dumpit-for-dfir-2/)  
