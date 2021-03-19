@@ -77,9 +77,11 @@ VirtualBox - .sav file *This is only a partial memory file. You'll need to dump 
 **Volatility**  
 Determine Profile: volatility -f MEMORY_FILE.raw imageinfo  
 Validate Profile: volatility -f MEMORY_FILE.raw --profile=PROFILE pslist  
-Pslist: list processes  
-Netscan: view active network connections  
-Psxview: intentially hidden processes (look for false)  
-Ldrmodules: If any of these are false, that module has likely been injected  
-Apihooks: view unexpected patches in the standard system DLLs (instances where Hooking module: unknown)
-
+pslist: list processes  
+netscan: view active network connections  
+psxview: intentially hidden processes (look for false)  
+ldrmodules: If any of these are false, that module has likely been injected  
+apihooks: view unexpected patches in the standard system DLLs (instances where Hooking module: unknown)  
+malfind: searches for malicious executables (usually DLLs) and shellcode inside of each process  
+dlllist: list all of the DLLs in memory  
+dlldump: if a suspect processe is identified dump the contents of DLL files to the local system
