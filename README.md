@@ -12,13 +12,16 @@ Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User 
 
 **Forensics (Capture)**  
 [FTK Imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftkimager#:~:text=FTK%C2%AE%20Imager%20is%20a,%C2%AE%20(FTK)%20is%20warranted.)  
-[Redline](https://www.fireeye.com/services/freeware/redline.html) 
+[Redline](https://www.fireeye.com/services/freeware/redline.html)  
+[DumpIt](https://zeltser.com/memory-acquisition-with-dumpit-for-dfir-2/)  
+[Win32dd](https://digital-forensics.sans.org/summit-archives/2010/eu-digital-forensics-incident-response-summit-matthieu-suiche-blue-screen-of-death-is-dead.pdf)  
+
 
 
 **Forensics (Analysis)**  
 [Volatility](https://github.com/volatilityfoundation/volatility)  
 
-**Forensics (Windows)**  
+**Forensics (Guides)**  
 [SANS Windows Forensic Analysis Poster](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download)  
 
 ## I
