@@ -81,5 +81,5 @@ Pslist: list processes
 Netscan: view active network connections  
 Psxview: intentially hidden processes (look for false)  
 Ldrmodules: If any of these are false, that module has likely been injected  
-Apihooks: view unexpected patches in the standard system DLLs (instances where Hooking module: <unknown>)
+Apihooks: view unexpected patches in the standard system DLLs (instances where Hooking module: unknown)
 
