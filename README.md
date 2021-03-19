@@ -75,4 +75,5 @@ VirtualBox - .sav file *This is only a partial memory file. You'll need to dump 
 
 ## V  
 **Volatility**  
-Determine Profile: volatility -f MEMORY_FILE.raw imageinfo
+Determine Profile: volatility -f MEMORY_FILE.raw imageinfo  
+Validate Profile: volatility -f MEMORY_FILE.raw --profile=PROFILE pslist  
