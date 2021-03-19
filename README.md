@@ -13,6 +13,11 @@ Extensions Folder Path - C:\Users\[login_name]\AppData\Local\Google\Chrome\User 
 **Forensics (Capture Dead)**  
 %SystemDrive%/hiberfil.sys  
 
+**Forensics (Virtual)**  
+VMware - .vmem file  
+Hyper-V - .bin file  
+Parallels - .mem file  
+VirtualBox - .sav file *This is only a partial memory file. You'll need to dump memory like a normal bare-metal system for this hypervisor  
 
 **Forensics (Capture Live)**  
 [FTK Imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftkimager#:~:text=FTK%C2%AE%20Imager%20is%20a,%C2%AE%20(FTK)%20is%20warranted.)  
