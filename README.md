@@ -72,3 +72,7 @@ VirtualBox - .sav file *This is only a partial memory file. You'll need to dump 
 ## W
 **Web Browser**  
 [Web Browser Forensics](https://www.digitalforensics.com/blog/an-overview-of-web-browser-forensics/)
+
+## V  
+**Volatility**  
+Determine Profile: volatility -f MEMORY_FILE.raw imageinfo
