@@ -69,9 +69,26 @@ VirtualBox - .sav file *This is only a partial memory file. You'll need to dump 
 ## T
 **Threat Hunting**  
 [SANS Hunt Evil Poster](https://www.sans.org/security-resources/posters/hunt-evil/165/download)
+
 ## W
 **Web Browser**  
 [Web Browser Forensics](https://www.digitalforensics.com/blog/an-overview-of-web-browser-forensics/)
+
+**Windows (Investigating)**  
+systeminfo: information about the OS and the system  
+query user: displays information about user sessions
+net users: displays user account information  
+net user <username>: user information (last logon, etc)  
+wmic startup list full: autorun information  
+net localgroup administrators: users with local admin priv  
+schtasks /FO CSV /V > exportedjobs.csv  
+Event ID 4624: Successful Login Sessions  
+Event ID 4672: Special Privileges assigned to new login  
+host file: local dns records (dns cache poisoning) C:\Windows\System32\drivers\etc\hosts  
+check for webshell: C:\inetpub\wwwroot  
+
+
+
 
 ## V  
 **Volatility**  
