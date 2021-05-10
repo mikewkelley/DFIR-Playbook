@@ -50,6 +50,8 @@ VirtualBox - .sav file *This is only a partial memory file. You'll need to dump 
 [Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)  
 [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  
 [PagerDuty IR Documentation](https://response.pagerduty.com/)  
+[Microsoft IR Playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)  
+
 
 **Prefetch**  
 [WinPrefetchView](https://www.nirsoft.net/utils/win_prefetch_view.html)  
